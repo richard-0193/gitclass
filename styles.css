@@ -1,0 +1,26 @@
+/* Selector de tagname*/
+h1 {
+    color: red;
+    font-size: 45px;
+}
+
+/*Selector universal*/
+* {
+    color: green
+}
+
+/* Selector ID */
+#palabra {
+    font-weight: normal;
+}
+
+
+/* Selector clase */
+.palabras {
+    font-weight: lighter;
+}
+
+.palabras2 {
+    font-weight: lighter;
+    text-decoration: underline;
+}
